@@ -1,2 +1,3 @@
-1. Exam Preparation demo by Chavdar Mitkov
-2. Bootstrap, front-end demo by Simeon Petrov
+# Spring course
+- Exam Preparation demo by Chavdar Mitkov
+- Bootstrap, front-end demo by Simeon Petrov
